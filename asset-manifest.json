@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/perksys/static/css/main.055104d3.chunk.css",
+    "main.js": "/perksys/static/js/main.5647032b.chunk.js",
+    "main.js.map": "/perksys/static/js/main.5647032b.chunk.js.map",
+    "runtime-main.js": "/perksys/static/js/runtime-main.873ae182.js",
+    "runtime-main.js.map": "/perksys/static/js/runtime-main.873ae182.js.map",
+    "static/css/2.272573f5.chunk.css": "/perksys/static/css/2.272573f5.chunk.css",
+    "static/js/2.0754d535.chunk.js": "/perksys/static/js/2.0754d535.chunk.js",
+    "static/js/2.0754d535.chunk.js.map": "/perksys/static/js/2.0754d535.chunk.js.map",
+    "static/js/3.4a372bea.chunk.js": "/perksys/static/js/3.4a372bea.chunk.js",
+    "static/js/3.4a372bea.chunk.js.map": "/perksys/static/js/3.4a372bea.chunk.js.map",
+    "index.html": "/perksys/index.html",
+    "static/css/2.272573f5.chunk.css.map": "/perksys/static/css/2.272573f5.chunk.css.map",
+    "static/css/main.055104d3.chunk.css.map": "/perksys/static/css/main.055104d3.chunk.css.map",
+    "static/js/2.0754d535.chunk.js.LICENSE.txt": "/perksys/static/js/2.0754d535.chunk.js.LICENSE.txt",
+    "static/media/Application.jpg": "/perksys/static/media/Application.70aa984f.jpg",
+    "static/media/ApplicationDevelopment.jpg": "/perksys/static/media/ApplicationDevelopment.7ae8261b.jpg",
+    "static/media/App.css": "/perksys/static/media/perksysinc.a15a1048.jpg",
+    "static/media/font-awesome.min.css": "/perksys/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/mainpic.jpg": "/perksys/static/media/mainpic.85344f96.jpg",
+    "static/media/slick-theme.css": "/perksys/static/media/slick.c94f7671.ttf",
+    "static/media/themify-icons.css": "/perksys/static/media/themify.f0fc8c79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.873ae182.js",
+    "static/css/2.272573f5.chunk.css",
+    "static/js/2.0754d535.chunk.js",
+    "static/css/main.055104d3.chunk.css",
+    "static/js/main.5647032b.chunk.js"
+  ]
+}
